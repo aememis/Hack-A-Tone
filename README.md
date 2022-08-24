@@ -1,4 +1,4 @@
-# TryAngles
+# Hack-A-Tone
 
 This repository is for c2ho hackaton submission.
 It contains 2 files.
